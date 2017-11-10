@@ -563,9 +563,10 @@ box-shadow: 0 0 0 10px rgba(109,66,161,0.4);
     position: absolute;
     width: 30%;   
     max-height: 348px;
-    top:730px;
+    top:735px;
     right:0;
     overflow: hidden;
+	z-index:-1;
 }
 
 .block-5 .item-6 {   
